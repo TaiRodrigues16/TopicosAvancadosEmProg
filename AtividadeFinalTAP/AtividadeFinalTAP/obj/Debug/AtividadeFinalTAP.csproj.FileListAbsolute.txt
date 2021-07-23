@@ -1,0 +1,10 @@
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\bin\Debug\AtividadeFinalTAP.exe.config
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\bin\Debug\AtividadeFinalTAP.exe
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\bin\Debug\AtividadeFinalTAP.pdb
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.csprojAssemblyReference.cache
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.Form1.resources
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.Properties.Resources.resources
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.csproj.GenerateResource.cache
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.csproj.CoreCompileInputs.cache
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.exe
+C:\Users\taian\source\repos\AtividadeFinalTAP\AtividadeFinalTAP\obj\Debug\AtividadeFinalTAP.pdb
