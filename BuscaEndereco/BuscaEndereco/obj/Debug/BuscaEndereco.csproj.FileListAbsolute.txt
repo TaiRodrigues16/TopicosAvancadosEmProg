@@ -1,0 +1,7 @@
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\bin\Debug\BuscaEndereco.exe.config
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\bin\Debug\BuscaEndereco.exe
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\bin\Debug\BuscaEndereco.pdb
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.csprojAssemblyReference.cache
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.csproj.CoreCompileInputs.cache
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.exe
+C:\Users\taian\source\repos\BuscaEndereco\BuscaEndereco\obj\Debug\BuscaEndereco.pdb
